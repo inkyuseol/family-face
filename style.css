@@ -166,8 +166,14 @@ are 600px or less, set the background color to olive */
 }
 .footer {
     background-color: initial;
-    color: initial;
+    color: #000000;
+    display:block;
+    text-align: center;
+    margin: 0 auto;
+    justify-content: center!important;
+    position: relative;
 }
+
 .bar-container {
     height: 2.7rem;
 }
