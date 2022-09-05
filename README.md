@@ -9,7 +9,11 @@ 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
 
 
 git init
+
 git add .
+
 git commit -m "first commit"
+
 git remote add origin https://github.com/inkyuseol/Family-Face.git
+
 git push -u origin master
